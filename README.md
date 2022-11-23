@@ -1,6 +1,8 @@
 # card_tailwind_css
 Card de experiência de usuário. Prática de desenvolvimento com Tailwind css
 
+Projeto finalizado com o card de apresentação de usuário. Características: Responsividade, desenvolvido com vite react, typescript, tailwind css para estilização
+
 ### Imagem final
 ![image](https://user-images.githubusercontent.com/95495192/203482642-c433b77f-2b39-4248-8ad0-2bd7894d0680.png)
 
